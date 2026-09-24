@@ -1,0 +1,20 @@
+[[ISSUERS]]
+address = "rB8mxgyWN3wFSQHRs5aB6Psgvk1yGWW5Fi"
+name = "FuzzyPepe"
+
+[[TOKENS]]
+issuer = "rB8mxgyWN3wFSQHRs5aB6Psgvk1yGWW5Fi"
+currency = "46555A5A59504550450000000000000000000000"
+name = "FUZZYPEPE"
+desc = "Fuzzy and Pepe collide."
+icon = "https://fuzzypepe.com/3EE9D1FA-552F-482D-A52B-9E7072BCEEF4.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://fuzzypepe.com"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://x.com/FUZZYPEPE_XRP"
+type = "socialmedia"
+title = "X"
